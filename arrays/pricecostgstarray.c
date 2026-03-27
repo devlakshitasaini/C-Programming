@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
-{
-    float p[3];
+{ 
+  float p[3];
     printf("enter 3 prices :");
     scanf("%f",&p[0]);
     scanf("%f",&p[1]);
